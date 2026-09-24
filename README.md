@@ -1,8 +1,8 @@
 ## Olá, Eu sou Ítalo Ferreira
 
-**Cientista de dados**
+**Cientista da computação**
 
-Me chamo Ítalo Wallace De Caldas Ferreira, tenho 22 anos e sou natural da Bahia. Atualmente, estou cursando Ciência de dados na EBAC. Sou apaixonado por tecnologia e compartilho meu conhecimento através dos meus projetos do Github.
+Me chamo Ítalo Wallace De Caldas Ferreira, tenho 22 anos e sou natural da Bahia. Atualmente, estou cursando Ciência da computação na Unijorge. Sou apaixonado por tecnologia e compartilho meu conhecimento através dos meus projetos do Github.
 
 <h3 align="left">Se conecte comigo!</h3>
 
